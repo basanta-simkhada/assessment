@@ -1,0 +1,13 @@
+[
+  {
+    "InstanceId": "i-123456",
+    "Name": "web-server",
+    "InstanceType": "t3.medium",
+    "CPUUtilization": {
+      "Average": 85.4,
+      "Minimum": 60.2,
+      "Maximum": 98.7
+    },
+    "HighCPU": true
+  }
+]
